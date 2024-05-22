@@ -1,4 +1,4 @@
-﻿// Copyright 2024 Thieves of the Night. All Rights Reserved.
+﻿// Copyright 2024 Gregor Sönnichsen. All Rights Reserved.
 
 
 #include "InteractableLocator.h"
